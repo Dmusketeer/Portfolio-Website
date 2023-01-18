@@ -28,7 +28,7 @@ function Header() {
               <a href="/#contact">CONTACT</a>
             </li>
             <li>
-              <a href="" target="_blank" without rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 RESUME
               </a>
             </li>
@@ -40,19 +40,19 @@ function Header() {
           className={!toggle ? "mobile-nav left-[100%]" : "mobile-nav left-0"}
         >
           <ul className="flex flex-col">
-            <li>
+            <li className="mt-[130px]">
               <a href="/#about">ABOUT</a>
             </li>
-            <li>
+            <li className="mt-[40px]">
               <a href="/#projects">PROJECTS</a>
             </li>
-            <li>
+            <li className="mt-[40px]">
               <a href="/#blog">BLOGS</a>
             </li>
-            <li>
+            <li className="mt-[40px]">
               <a href="/#contact">CONTACT</a>
             </li>
-            <li>
+            <li className="mt-[40px]">
               <a href="/#resume">RESUME</a>
             </li>
           </ul>
