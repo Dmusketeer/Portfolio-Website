@@ -20,7 +20,7 @@ function About() {
             JavaScript, React.js, Redux.
           </p>
           <p className="text-xl">
-            In backend I know Node.js, Express.js, MongoDB, SQL, Docker.
+            In backend I know Node.js, Express.js, MongoDB, Python, SQL, Docker.
           </p>
           <p className="text-xl">
             In my spare time I write Bolgs on Medium.com and DEV.to Which is
