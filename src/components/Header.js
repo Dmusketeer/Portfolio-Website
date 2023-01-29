@@ -28,7 +28,11 @@ function Header() {
               <a href="/#contact">CONTACT</a>
             </li>
             <li>
-              <a href="" target="_blank" rel="noreferrer">
+              <a
+                href="https://drive.google.com/file/d/1TFmVkjRMjKYHlSEO2VIHrf9SVbZehlRk/view?usp=drivesdk"
+                target="_blank"
+                rel="noreferrer"
+              >
                 RESUME
               </a>
             </li>
