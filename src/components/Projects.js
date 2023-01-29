@@ -1,7 +1,7 @@
 import React from "react";
 
 function Projects() {
-  const projects = [];
+  // const projects = [];
   return (
     <section className="bg-primary text-white px-5 py-32" id="projects">
       <div className="container mx-auto grid md:grid-cols-2 items-center md:justify-between">
