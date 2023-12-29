@@ -12,9 +12,13 @@ function Hero() {
             <br />
             FullStack Developer
           </h1>
-          <p className="py-5 text-xl">
+          <p className="py-5 text-xl text-justify">
             {" "}
-            I am proficient in JavaScript, React.js, Node.js And MongoDB.
+            {/* I am proficient in JavaScript, React.js, Node.js And MongoDB. */}
+            Seasoned Full-Stack Developer with 2+ years of experience,
+            proficient in JavaScript, React.js, Node.js, and MongoDB,
+            contributing to the creation of dynamic and scalable web
+            applications.
           </p>
           <div className="flex py-5 ">
             <a
