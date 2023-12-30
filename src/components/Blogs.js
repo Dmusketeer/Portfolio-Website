@@ -8,6 +8,22 @@ import closure from "../assets/images/closure.jpg";
 function Blogs() {
   const post = [
     {
+      img: ts,
+      title:
+        "TypeScript: The Ultimate Tool for Building Scalable and Maintainable Applications",
+      url: "https://dmusketeer.medium.com/typescript-the-ultimate-tool-for-building-scalable-and-maintainable-applications-part-1-1ef824756378",
+    },
+    {
+      img: docker,
+      title: "Docker: Separating Applications from Infrastructure",
+      url: "https://dheeraj9a.hashnode.dev/docker-separating-applications-from-infrastructure",
+    },
+    {
+      img: closure,
+      title: "Higher Order Functions and Closures in Python",
+      url: "https://dmusketeer.medium.com/higher-order-functions-and-closures-in-python-e95a4bbf39f0",
+    },
+    {
       img: react,
       title: "ReactJS Dom Introduction",
       url: "https://dmusketeer.medium.com/reactjs-introduction-439b519f493d",
@@ -17,26 +33,11 @@ function Blogs() {
       title: "Decorators in Python",
       url: "https://dev.to/dmusketeer/decorators-in-python-22g8",
     },
-    {
-      img: closure,
-      title: "Higher Order Functions and Closures in Python",
-      url: "https://dmusketeer.medium.com/higher-order-functions-and-closures-in-python-e95a4bbf39f0",
-    },
-    {
-      img: ts,
-      title:
-        "TypeScript: The Ultimate Tool for Building Scalable and Maintainable Applications",
-      url: "https://dmusketeer.medium.com/typescript-the-ultimate-tool-for-building-scalable-and-maintainable-applications-part-1-1ef824756378",
-    },
+
     {
       img: tJS,
       title: "Create 3D Animations and graphics using Threejs(3JS)",
       url: "https://dmusketeer.medium.com/create-3d-animations-and-graphics-using-threejs-3js-a6f682ce308e",
-    },
-    {
-      img: docker,
-      title: "Docker: Separating Applications from Infrastructure",
-      url: "https://dheeraj9a.hashnode.dev/docker-separating-applications-from-infrastructure",
     },
   ];
 
