@@ -20,9 +20,7 @@ function Projects() {
           <h2 className="text-4xl font-bold mb-5 border-b-[5px] w-[150px] border-[#B2456E] pb-2">
             Projects
           </h2>
-          <p className="pb-5 text-2xl">
-            Stay Tuned! Working on it. Soon it'll be updated....
-          </p>
+          <p className="pb-5 text-2xl">Lists Of Projects</p>
         </div>
       </div>
       <div className="projects container mx-auto grid md:grid-cols-3 gap-20 text-xl">
