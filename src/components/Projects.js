@@ -28,7 +28,7 @@ function Projects() {
     },
     {
       img: careConnect,
-      title: "CareConnect",
+      title: "MedAppoint",
       url: "https://github.com/Dmusketeer/MedAppoint",
     },
   ];
