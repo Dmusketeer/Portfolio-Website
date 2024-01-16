@@ -1,5 +1,9 @@
 import React from "react";
 import tsTodo from "../assets/projects/tsTODO.png";
+import bookvista from "../assets/images/bookvista.png";
+import bookstore from "../assets/images/bookstore.png";
+import passBuddy from "../assets/images/passBuddy.png";
+import careConnect from "../assets/images/careConnect.png";
 function Projects() {
   const Projects = [
     {
@@ -8,9 +12,24 @@ function Projects() {
       url: "https://type-script-projects.vercel.app/",
     },
     {
-      img: "",
-      title: "",
-      url: "",
+      img: bookvista,
+      title: "BookVista MERN Booking Application Using TypeScript",
+      url: "https://github.com/Dmusketeer/BookVista",
+    },
+    {
+      img: bookstore,
+      title: "Book Store Appliction Using MERN Stack",
+      url: "https://github.com/Dmusketeer/FullStack-Projects/tree/main/BookStrore",
+    },
+    {
+      img: passBuddy,
+      title: "Password Buddy",
+      url: "https://github.com/Dmusketeer/Passbuddy",
+    },
+    {
+      img: careConnect,
+      title: "CareConnect",
+      url: "https://github.com/Dmusketeer/MedAppoint",
     },
   ];
   return (
